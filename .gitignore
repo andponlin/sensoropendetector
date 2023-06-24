@@ -1,0 +1,4 @@
+build*
+staticsettings.h
+.vscode
+.idea
